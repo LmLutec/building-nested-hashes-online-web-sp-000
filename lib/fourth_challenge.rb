@@ -25,12 +25,12 @@ def fourth_challenge
         :Steven => {
           :name => "Steven",
           :age => "30",
-          :attitude => "confused"
+          :attitude => "confused",
         }
         :Nurse => {
           :name => "Nurse",
           :age => "44",
-          :attitude => "worried"
+          :attitude => "worried",
         }
       ]
    }
