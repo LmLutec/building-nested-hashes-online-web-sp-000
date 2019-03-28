@@ -34,7 +34,7 @@ def fourth_challenge
           :name => "Nurse"
           
         }}
-      ]
+    ]  
    }
 }
 
